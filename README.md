@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Managing File Permissions in Linux (Google Cybersecurity Cert)</b>
+  - [Use Linux commands to manage file permissions](https://github.com/zantig/Use-Linux-commands-to-manage-file-permissions)
 
 
 
